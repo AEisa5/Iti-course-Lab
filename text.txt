@@ -4,3 +4,4 @@ I live in Beni Suef
 My skills is aws,linux,Terraform,jenkins
 Edit from feature-branch
 pull request question
+fetch command and merging
